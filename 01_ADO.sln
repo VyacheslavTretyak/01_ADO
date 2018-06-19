@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Create DB", "Create DB\Create DB.csproj", "{052C7C36-7E59-49E0-8944-22BAA32D64E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBTableViewer", "DBTableViewer\DBTableViewer.csproj", "{1EEBCDD2-F8D2-4BAE-95A6-A3449BD6C758}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{052C7C36-7E59-49E0-8944-22BAA32D64E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{052C7C36-7E59-49E0-8944-22BAA32D64E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{052C7C36-7E59-49E0-8944-22BAA32D64E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEBCDD2-F8D2-4BAE-95A6-A3449BD6C758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEBCDD2-F8D2-4BAE-95A6-A3449BD6C758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEBCDD2-F8D2-4BAE-95A6-A3449BD6C758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEBCDD2-F8D2-4BAE-95A6-A3449BD6C758}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
